@@ -11,7 +11,7 @@ Transforms
 transform, transform-origin, transform-style, perspective, perspective-origin, backface-visibility.
 
 Transitions and Animations
-All transition and animation properties listed above.
+All transition and animation properties listed above..
 
 Shadows and Effects
 box-shadow, text-shadow, opacity, filter, backdrop-filter, mix-blend-mode.
@@ -22,6 +22,7 @@ linear-gradient()
 radial-gradient()
 
 conic-gradient()
+
 
 repeating-linear-gradient()
 
@@ -51,8 +52,6 @@ mix-blend-mode
 
 background-blend-mode
 
-Scroll Snap
-All scroll-snap properties listed above.
 
 Logical Properties
 inline-size
