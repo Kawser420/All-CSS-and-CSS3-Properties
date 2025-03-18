@@ -1,0 +1,86 @@
+/* CSS3 Properties */
+
+/* 
+Flexbox
+All Flexbox properties listed above.
+
+Grid Layout
+All Grid properties listed above.
+
+Transforms
+transform, transform-origin, transform-style, perspective, perspective-origin, backface-visibility.
+
+Transitions and Animations
+All transition and animation properties listed above.
+
+Shadows and Effects
+box-shadow, text-shadow, opacity, filter, backdrop-filter, mix-blend-mode.
+
+Gradients
+linear-gradient()
+
+radial-gradient()
+
+conic-gradient()
+
+repeating-linear-gradient()
+
+repeating-radial-gradient()
+
+Media Queries
+@media
+
+Custom Properties (Variables)
+--* (Custom properties, e.g., --main-color: red;)
+
+Multi-column Layout
+All column-related properties listed above.
+
+Shapes
+shape-outside
+
+shape-margin
+
+shape-image-threshold
+
+Filters
+filter (e.g., blur(), brightness(), contrast(), grayscale(), etc.)
+
+Blend Modes
+mix-blend-mode
+
+background-blend-mode
+
+Scroll Snap
+All scroll-snap properties listed above.
+
+Logical Properties
+inline-size
+
+block-size
+
+margin-inline
+
+margin-block
+
+padding-inline
+
+padding-block
+
+border-inline
+
+border-block
+
+Viewport Units
+vw, vh, vmin, vmax
+
+Writing Modes
+writing-mode
+
+text-orientation
+
+direction
+
+
+
+*/
